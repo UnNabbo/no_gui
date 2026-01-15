@@ -1,0 +1,3 @@
+[submodule "modules/no_api"]
+	path = modules/no_api
+	url = https://github.com/UnNabbo/no_api
